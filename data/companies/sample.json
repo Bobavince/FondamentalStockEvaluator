@@ -1,0 +1,10 @@
+{
+  "internal_company_id" : "sample_internal_id",
+  "name" : "sample_name",
+  "Industry" : "sample_industry",
+  "sector" : "sample_sector",
+  "currency" : "sample_currency",
+  "country" : "sample_country",
+  "capitalisation" : "sample_capitalisation",
+  "related_stocks_names" : ["internal_stock_id", "internal_stock_id", "..."]
+}
